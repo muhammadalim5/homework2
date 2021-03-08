@@ -32,3 +32,6 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 
 Repo Link : https://github.com/muhammadalim5/homework2.git
 Deployable Link: https://muhammadalim5.github.io/homework2/
+
+## Note:
+I did not create a linked In yet, gonna do that next 
