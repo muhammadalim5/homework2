@@ -24,7 +24,7 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 * Screenshots are provided as a reference in the `assets` folder.
 
 ## Screenshots
-![alt text](./assets/Capture1.PNG)
+![alt text](./assets/Capture1.PNG) 
 ![alt text](./assets/Capture2.PNG)
 ![alt text](./assets/Capture3.PNG)
 
